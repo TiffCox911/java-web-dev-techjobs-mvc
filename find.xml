@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'hello-spring'" />
-    <option name="defaultScopeName" value="Project 'hello-spring'" />
-    <option name="SEARCH_SCOPE" value="Project 'hello-spring'" />
+    <option name="customScope" value="Project 'Java LauchCodeStudio'" />
+    <option name="defaultScopeName" value="Project 'Java LauchCodeStudio'" />
+    <option name="SEARCH_SCOPE" value="Project 'Java LauchCodeStudio'" />
   </component>
 </application>
